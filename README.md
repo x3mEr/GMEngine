@@ -1,4 +1,4 @@
-# GMEngine
+# <img width="48" height="48" alt="logo" src="https://github.com/x3mer/gmengine/blob/main/logo-small.png?raw=true" /> GMEngine
 Generate visible, honest on-chain activity across multiple EVM networks.
 Daily GM, contract deployments, NFT minting, streaks, and automated relaying.
 This repository contains **Solidity smart contracts** used on [GMEngine.xyz](https://www.gmengine.xyz) platform.
